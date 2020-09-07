@@ -182,7 +182,7 @@ Yey! You are no longer limited to 6 pinned repositories.
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Endpoint: `api/pin?username= drabhishekkumar&repo=github-readme-stats`
 
 ```md
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
@@ -190,11 +190,11 @@ Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
 
 ### Demo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/drabhishekkumar/github-readme-stats)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username= drabhishekkumar &repo=github-readme-stats&show_owner=true)](https://github.com/ drabhishekkumar/github-readme-stats)
 
 # Top Languages Card
 
